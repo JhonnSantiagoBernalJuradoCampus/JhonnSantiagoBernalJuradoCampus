@@ -93,22 +93,9 @@
   <a href="https://wa.link/qga4fb">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"/>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
 </div>
 
-###
-
-  <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanDavidEscalanteCastaneda-Campus/JuanDavidEscalanteCastaneda-Campus/output/github-contribution-grid-snake.svg">
-
-
-###
-</picture>
-    </div>
-
-<h3 align="center">- I'm Santiago Bernal the developer -</h3>
+<h3 align="center">- I'm Santiago Bernal a backend developer -</h3>
 <div align="center">
   <img src="https://profile-counter.glitch.me/JhonnSantiagoBernalJuradoCampus/count.svg?"  />
 </div>
