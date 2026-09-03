@@ -4,14 +4,6 @@
 
 **Backend & Full-Stack Developer** · +2 años de experiencia
 
-<br />
-
-<a href="https://portafolio-cyan-beta.vercel.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Ver_portafolio-2563EB?style=for-the-badge& alt="Ver portafolio" height="40" />
-</a>
-
-<br />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-santiago-bernal-jurado-647a3b26a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bernalSantiago1)
 
