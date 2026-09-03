@@ -1,1 +1,104 @@
-<h1 align="center"><p>< WELCOME DEVELOPER /></p></h1><h1 align="center">👨‍🚀 ABOUT ME</h1><br clear="both"><img align="right" height="200" src=https://www.xtrafondos.com/wallpapers/noche-estrellada-en-la-ciudad-10845.jpg /><br><h3 align="center">Junior backend developer with interest in learning more every day, I like table tennis and cooking, I aspire to be better every day</h3></br></br></br><h1 align="center">💻 MY TECH STACK 💻</h1><h3 align="center">In my technological stack I have the programs that I manage as a developer, little by little I will build according to my knowledge in programming to generate more and more learning...</h3><br><div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="javascript logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="80" alt="bootstrap logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3 logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="80" alt="express logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="github logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5 logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" alt="mongodb logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="80" alt="npm logo" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" alt="python logo"/><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="vscode logo" /><img width="15" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="80" alt="vscode logo" /></div></div><br/><h1 align="center">🕹️ STATS 🕹️</h1><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bernalSantiago1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernalSantiago1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /><img src="https://streak-stats.demolab.com?user=bernalSantiago1&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /></div></br><h1 align="center">📱SOCIAL NETWORKS 📱</h1><div align="center"><a href="https://www.linkedin.com/in/jhon-santiago-bernal-jurado-647a3b26a/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"/></a></a></div><h3 align="center">- I'm Santiago Bernal a backend developer -</h3><div align="center"><img src="https://profile-counter.glitch.me/bernalSantiago1/count.svg?" /></div>
+
+
+# Jhon Santiago Bernal Jurado
+
+**Backend & Full-Stack Developer** · Colombia · +2 años de experiencia
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+Diseño e implemento arquitecturas escalables con **Java** y **Spring Boot**,  
+y cierro el ciclo de producto con interfaces precisas en **React**.
+
+
+
+---
+
+
+
+## Sobre mí
+
+Más que escribir código, diseño soluciones mantenibles y con impacto en el negocio. Soy desarrollador **Backend y Full-Stack** con más de dos años construyendo sistemas reales: APIs, bases de datos, contenedores y, cuando el producto lo pide, la interfaz.
+
+He trabajado tanto en equipos de innovación como asumiendo un proyecto de punta a punta, con seguimiento cercano de arquitectura y entrega. Me interesa comunicar lo técnico con claridad —conectar el diseño del sistema con la decisión de negocio— y seguir elevando el estándar de lo que entrego.
+
+- Arquitecturas limpias y microservicios
+- APIs en Java + Spring Boot
+- Interfaces en React y aplicaciones móviles con Flutter
+- 2.º puesto — Hackathon SofTic 2023
+
+Fuera del código me recargo con tenis de mesa y cocina.
+
+---
+
+
+
+## Stack
+
+Agrupo las herramientas por el papel que cumplen: construir el dominio, persistir datos, llegar al usuario y mover el código con el equipo.
+
+![Stack técnico](https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql,mongodb,docker,react,ts,js,flutter,dart,html,css,tailwind,git,github,gitlab&perline=10)
+
+
+| Área                  | Tecnologías                                             |
+| --------------------- | ------------------------------------------------------- |
+| **Backend**           | Java 21 · Spring Boot · Node.js · Express               |
+| **Frontend & mobile** | React · TypeScript · JavaScript · Flutter · Dart        |
+| **Datos**             | PostgreSQL · MySQL · MariaDB · SQL Server · MongoDB     |
+| **Infra & entrega**   | Docker · Docker Compose · CI/CD · Git · GitLab · GitHub |
+
+
+También he trabajado con JPA, MapStruct, OpenAPI / Swagger, JSON:API, Vite, Tailwind CSS, HTML/CSS y pruebas con Jest.
+
+---
+
+
+
+## Proyectos destacados
+
+Los dos primeros son los casos de estudio de mi portafolio. El tercero es el portafolio en sí: la pieza Full-Stack que los presenta.
+
+
+|     |
+| --- |
+|     |
+
+
+
+
+### Arquitectura distribuida de microservicios
+
+Catálogo e inventario con flujo de compra orquestado entre dos servicios independientes. Cada uno tiene su base, API REST en JSON:API, autenticación por API Key y despliegue reproducible con Docker.
+
+- Database per service (PostgreSQL)
+- Orquestación HTTP entre `products` e `inventory`
+- Capas por feature + tests unitarios e de integración
+
+[Repositorio](https://github.com/bernalSantiago1/microservicios-java) · Java 21 · Spring Boot 3 · Docker · PostgreSQL
+
+
+
+### Base de datos relacional — producción y ventas
+
+Modelo relacional en MySQL para una empresa de confección: geografía, clientes, empleados, proveedores, órdenes, inventario y ventas. Traduce un DER a un esquema normalizado y lo consulta con joins, filtros y agregaciones.
+
+- Integridad referencial y tablas puente N:M
+- Consultas de analítica de ventas y stock
+- Scripts DDL y DQL documentados
+
+[Repositorio](https://github.com/bernalSantiago1/base-datos-relacional) · MySQL · SQL · Modelado E-R
+
+
+
+### Portafolio personal
+
+Sitio en React + TypeScript que no se limita a listar proyectos: incluye un **simulador interactivo** del flujo de compra entre microservicios (peticiones HTTP, stock y consola en tiempo real) y el detalle del modelo E-R.
+
+React · TypeScript · Vite · Tailwind CSS · Framer Motion
+
+
+
+Disponible para nuevos retos.
+
+[LinkedIn](https://www.linkedin.com/in/jhon-santiago-bernal-jurado-647a3b26a/) · [GitHub](https://github.com/bernalSantiago1)
+
